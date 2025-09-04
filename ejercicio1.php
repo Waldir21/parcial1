@@ -3,13 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Ejercicio1</title>
 </head>
+
 <body>
+    <h1>CATEGROIAS</h1>
     <button class "btn1">personajes principales</button>
     <button class "btn1">villanos</button>
     <button class "btn1">amigos de shrek</button>
     <button class "btn1">personajes secundarios</button>
-    <img src="https://drive.google.com/file/d/1Dn_ShLPe4TAjttg7Es3feKFd9082ne3C/view?usp=drive_link" alt="">
+    
+    <div class "personajes">
+        <img src="./img3.jpg" alt="personaje princiapl">
+        <img src="./img1.jpg" alt="personaje princiapl">
+        <img src="./img4.jpg" alt="personaje princiapl">
+
+    </div>
 </body>
 </html>
